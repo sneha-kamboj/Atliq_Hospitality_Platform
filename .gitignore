@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+atliq_database.db
+.streamlit/secrets.toml
+.DS_Store
